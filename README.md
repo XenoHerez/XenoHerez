@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**XenoHerez/XenoHerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on websites...
 - 🌱 I’m currently learning JavaScript, python, css...
 - 🤔 I’m looking for help with codes...
